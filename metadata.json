@@ -1,0 +1,6 @@
+{
+  "name": "Blockchain-Based Skill Credentialing System",
+  "description": "Securely issue, store, and verify educational and skill certificates using simulated blockchain technology with real-time QR scanning and AI-based fraud detection.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
